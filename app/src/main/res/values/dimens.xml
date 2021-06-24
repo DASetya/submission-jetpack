@@ -1,0 +1,14 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <dimen name="medium_dimen">8dp</dimen>
+    <dimen name="large_dimen">16dp</dimen>
+    <dimen name="thumbnail_dimen">96dp</dimen>
+    <dimen name="large_text">18sp</dimen>
+    <dimen name="xlarge_text">20sp</dimen>
+    <dimen name="backdrop_dimen">250dp</dimen>
+    <dimen name="poster_width">150dp</dimen>
+    <dimen name="poster_height">200dp</dimen>
+    <dimen name="medium_text">16sp</dimen>
+
+</resources>

@@ -1,0 +1,31 @@
+1. Menampilkan Movies
+- Memastikan rv_movie dapat tampil dengan baik
+- Gulir rv_movie ke posisi data terakhir
+2. Menampilkan Detail Movies
+- Memberikan tindakan klik pada data pertama rv_movie
+- Memastikan TextView pada txtTitle, txtDate, txtRating, txtOverview, imgBackdrop, imgPoster dapat tampil sesuai dengan yang diharapkan
+3. Menambahkan Favorit Movie
+- Memberikan tindakan klik pada imgFav untuk menambah favorit Movie
+4. Menampilkan TV
+- Memberikan tindakan klik pada ViewPager TV Show
+- Memastikan TV dapat diklik untuk berpindah pada viewpager ke TvFragment
+- Memastikan rv_tv dapat tampil dengan baik
+- Gulir rv_Tv ke posisi data terakhir
+5. Menampilkan Detail TV
+- Memberikan tindakan klik pada data pertama rv_tv
+- Memastikan TextView pada txtTitle, txtDate, txtRating, txtOverview, imgBackdrop, imgPoster dapat tampil sesuai dengan yang diharapkan
+6. Menambahkan Favorit TV
+- Memberikan tindakan klik pada imgFav untuk menambah favorit TV
+7. Menampilkan Favorite Movie
+- Memberikan tindakan klik pada icon action_Fav
+- Memastikan rv_movie dapat tampil dengan baik
+- Gulir rv_movie ke posisi data terakhir
+8. Menghapus Favorite Movie
+- Memberikan tindakan klik pada imgFav untuk menghapus favorit Movie
+9. Menampilkan Favorite TV
+- Memberikan tindakan klik pada FavViewPager TV Show
+- Memastikan TV dapat diklik untuk berpindah pada viewpager ke TvFragment
+- Memastikan rv_tv dapat tampil dengan baik
+- Gulir rv_tv ke posisi data terakhir
+10. Menghapus Favorite TV
+- Memberikan tindakan klik pada imgFav untuk menghapus favorit TV

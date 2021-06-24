@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyMoviesAndTVs</string>
+    <string name="splash">My Movies &amp; TVs</string>
+    <string name="copyright">Created by Dimas Arif S</string>
+    <string name="movies">Movies</string>
+    <string name="tv">Tv Show</string>
+    <string name="overview">Overview </string>
+    <string name="todo">TODO</string>
+    <string name="no_fav">There Is No Favorite Data</string>
+
+
+</resources>
